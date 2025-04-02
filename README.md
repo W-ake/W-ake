@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-ake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-ake)
 
 <!--
 **W-ake/W-ake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
