@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-ake)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=W-ake)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-ake)
 <br/>
@@ -7,7 +8,7 @@
 <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-ake&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=W-ake)
+
 
 
 
