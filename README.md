@@ -13,7 +13,7 @@
 </picture>
 <br/>
 <!-- ![3D GitHub Contribution](https://github.com/W-ake/W-ake/blob/master/profile-3d-contrib/profile-gitblock.svg) -->
-![3D GitHub Contribution](W-ake/profile-3d-contrib/profile-gitblock.svg)
+![3D GitHub Contribution](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **W-ake/W-ake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
