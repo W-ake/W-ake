@@ -13,7 +13,7 @@
 </picture>
 <br/>
 <!-- ![3D GitHub Contribution](https://github.com/W-ake/W-ake/blob/master/profile-3d-contrib/profile-gitblock.svg) -->
-![3D GitHub Contribution](https://github.com/W-ake/W-ake/master/profile-3d-contrib/profile-green.svg)
+![3D GitHub Contribution](https://raw.githubusercontent.com/W-ake/W-ake/master/profile-3d-contrib/profile-green.svg)
 
 
 <!--
