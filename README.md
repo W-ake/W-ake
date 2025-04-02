@@ -2,20 +2,26 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=前面忘了+中间忘了+后面也忘了)
  <br/>
 <div align="center">
+<!-- 计数器 -->
 <img src="https://profile-counter.glitch.me/W-ake/count.svg" />
-  
+
+<!-- 修仙 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=W-ake)
 <br/>
+<!-- 贡献表格 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-ake&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
+<!-- 贪吃蛇 -->
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W-ake/W-ake/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W-ake/W-ake/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/W-ake/W-ake/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-
-![3D GitHub Contribution](./profile-3d-contrib/profile-gitblock.svg)
+ -->
+<!-- 3D贡献图 -->
+<!-- ![3D GitHub Contribution](./profile-3d-contrib/profile-gitblock.svg) -->
 
 </div>
 <!--
