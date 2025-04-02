@@ -5,7 +5,7 @@
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=W-ake&left_color=green&right_color=red)
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-ake&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-ake&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **W-ake/W-ake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
