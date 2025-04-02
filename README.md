@@ -4,6 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-ake)
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=W-ake&left_color=green&right_color=red)
+<br/>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-ake)
 
 
 <!--
