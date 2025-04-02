@@ -14,8 +14,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/W-ake/W-ake/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
+
 ![3D GitHub Contribution](./profile-3d-contrib/profile-gitblock.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 <!--
