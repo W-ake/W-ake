@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=前面忘了+中间忘了+后面也忘了)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-ake)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=W-ake)
 <br/>
