@@ -1,6 +1,10 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-ake)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-ake)
+<br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=W-ake&left_color=green&right_color=red)
+
 
 <!--
 **W-ake/W-ake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
