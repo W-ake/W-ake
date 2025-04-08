@@ -1,9 +1,9 @@
-## Hi there 👋
- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=前面忘了+中间忘了+后面也忘了)
- <br/>
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=前面忘了+中间忘了+后面也忘了)
 <div align="center">
 <!-- 计数器 -->
-<img src="https://profile-counter.glitch.me/W-ake/count.svg" />
+ 
+![:W-ake](https://count.getloli.com/get/@:W-ake?theme=minecraft)
+
 
 <!-- 修仙 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=W-ake)
